@@ -1,0 +1,3 @@
+problem#1            dc95c078a2408989ad48a21492842087
+problem#2 first bit  d00fa3e27563b71c18eccf3b21cc9bef
+problem#2 last bit   a632ce3876628d40a9effd9ba3496471
