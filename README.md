@@ -1,4 +1,5 @@
-# Advanced Information Security
+## install
+pip(or pip3) install pycrypto
 
-## language
-??
+## usage
+./run.sh
